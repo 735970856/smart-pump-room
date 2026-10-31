@@ -1,0 +1,3 @@
+/* Tailwind CSS 4 utilities without preflight: preserve original 3D overlay styles. */
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);

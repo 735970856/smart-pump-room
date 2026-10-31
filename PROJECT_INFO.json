@@ -1,0 +1,10 @@
+{
+  "name": "智慧泵房 · 全国数字孪生监管平台",
+  "version": "2.0.0-vue-migration",
+  "source_export_date": "2026-10-30",
+  "refactor_date": "2026-10-31",
+  "framework": "Vue 3 + TypeScript + Element Plus + Tailwind CSS 4 + ESLint 9 + Vite",
+  "migration_strategy": "Vue application and authentication with legacy Three.js dashboard compatibility bridge",
+  "data_mode": "local demonstration",
+  "package_manager": "pnpm@10.19.0"
+}
